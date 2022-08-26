@@ -1,0 +1,14 @@
+{
+  "name": "clone-objects",
+  "version": "1.0.0",
+  "description": "Best library",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "khanh2kjr",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  }
+}
